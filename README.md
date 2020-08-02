@@ -1,4 +1,4 @@
-### Hello, fellow members of the human race 👋
+Hello, fellow members of the human race 👋
 
 I'm Linus, an IT student and software developer from Finland. 👨‍💻 I'm currently studying Information and Communication Technology at [Metropolia University of Applied Sciences](https://metropolia.fi), looking to major in Software Engineering and become a full stack engineer one day.
 
