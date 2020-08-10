@@ -6,7 +6,7 @@ This is where most of the code I write is hosted. I've been working on open sour
 
 My forte is JavaScript and variants thereof like TypeScript, both when it comes to frontend and backend. You name anything relating to the web, it's right up my alley. I've also been known to tangle myself up in network cables and fans to wrangle servers into behaving decently often. 🔌🖥️
 
-In the past, I have done work in web development and/or systems administration for, among others, [Tarra-Tac](https://tarratac.fi) and the [Finnish Defence Forces](https://puolustusvoimat.fi). Outside of paid work, I've been known to code it up for various volunteer-based organisations, the most notable of them being [The Coding Den](https://github.com/TheCodingDen) and [TheSharks](https://github.com/TheSharks).
+In the past, I have done work in software development and/or systems administration for, among others, [Tarra-Tac](https://tarratac.fi) and the [Finnish Defence Forces](https://puolustusvoimat.fi). Outside of paid work, I've been known to code it up for various volunteer-based organisations, the most notable of them being [The Coding Den](https://github.com/TheCodingDen) and [TheSharks](https://github.com/TheSharks).
 
 Finally, if you want to find me on some other platforms, here's a few I can be found on:
 
