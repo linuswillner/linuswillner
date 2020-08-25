@@ -1,4 +1,15 @@
-Hello, fellow members of the human race 👋
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=linuswillner&count_private=true&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true"/>
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linuswillner&layout=compact&hide_border=true"/>
+    </td>
+  </tr>
+</table>
+
+**Hello, fellow members of the human race 👋**
 
 I'm Linus, an IT student and software developer from Finland. 👨‍💻 I'm currently studying Information and Communication Technology at [Metropolia University of Applied Sciences](https://metropolia.fi), looking to major in Software Engineering and become a full stack engineer one day.
 
