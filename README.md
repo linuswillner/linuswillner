@@ -23,7 +23,7 @@ Finally, if you want to find me on some other platforms, here's a few I can be f
 
 🌎 Website: [linuswillner.me](https://linuswillner.me)  
 🐦 Twitter: [@linuswillner](https://twitter.com/linuswillner)  
-🤳 Instagram: [@linuswillner](https://instagram.com/linuswillner)
+💼 LinkedIn: [Linus Willner](https://www.linkedin.com/in/linuswillner/)
 
 Hope you find the things I have created useful! 😄
 
