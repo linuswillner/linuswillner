@@ -11,7 +11,7 @@
 
 **Hello, fellow members of the human race 👋**
 
-I'm Linus, an IT student and software developer from Finland. 👨‍💻 I'm currently studying Information and Communication Technology at [Metropolia University of Applied Sciences](https://metropolia.fi), majoring in Software Engineering and with the aim to become a full stack engineer one day. At present, I'm also just about to embark on a journey of hacking stuff up for [@reaktor](https://github.com/reaktor) as a Software Developer.
+I'm Linus, an IT student and software developer from Finland. 👨‍💻 I'm currently a Software Developer who hacks stuff up for [@reaktor](https://github.com/reaktor). I'm also studying Information and Communication Technology at [Metropolia University of Applied Sciences](https://metropolia.fi), majoring in Software Engineering and with the aim to become a full stack engineer one day.
 
 This is where most of the code I write is hosted. I've been working on open source software ever since I started programming as a hobby in my teens back in 2016, and have created a fair few programs since then. The most notable ones are pinned below this blurb. The less notable ones... Well, the less said about [set-me-on-fire](https://github.com/linuswillner/set-me-on-fire), the better. 😆
 
